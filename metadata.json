@@ -1,0 +1,6 @@
+{
+  "name": "AFC Life Science - Produk Kesehatan & Regenerasi Sel Jepang",
+  "description": "Landing page resmi produk AFC Life Science Japan: SOP Subarashi, Utsukushhii Gold, Hikari, dan Sensei Suru dengan sertifikasi BPOM, Halal, dan hak paten fungsi Jepang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
